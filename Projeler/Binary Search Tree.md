@@ -3,7 +3,5 @@
 
 Root değerinden büyük değere sahip olan node'lar root'un sağ tarafına yerleşir.
 
-Bu dizi için Binary Search Tree yapısı aşağıya eklediğim fotoğraftaki gibi olur.
+Bu dizi için Binary Search Tree yapısı klasör içine eklediğim BinarySearchTree.png gibi olur.
 
-
-![Binary Search Tree](BinarySearchTree.png)
